@@ -14,8 +14,14 @@ rent faglig hvordan man skal bygge og sette sammen de forskjellige komponentene 
 utbytte av å jobbe med oppgaven vi har valgt. Både rent faglig, men også sosialt, sammen har vi utviklet et spill vi er fornøyde med, og vi sitter igjen med en 
 erfaring som kan komme godt med videre i livet. 
 
+## Prosjektside
+Her kan man se litt mer om prosjektet og hvordan vi har jobbet med det: https://battlebok.wordpress.com/
+
+## Video
+Her kan man se en video som viser litt av spillet gang:
+
 ## Laste ned
-SPillet kan lastes ned fra denne Mediafire linken: https://www.mediafire.com/file/72k35syfjmn4u0s/Spillfil_for_BoK.zip/file
+Spillet kan lastes ned fra denne Mediafire linken: https://www.mediafire.com/file/72k35syfjmn4u0s/Spillfil_for_BoK.zip/file
 
 ## Produsert av
 Vegard Hjerpaasen, Magnus L. Fjeldberg, Alexander R. Ovesen,  Even Røst.
