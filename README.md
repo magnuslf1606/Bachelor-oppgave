@@ -13,7 +13,7 @@ erfaring som kan komme godt med videre i livet.
 
 ## GitHub
 I dette GitHub Repo'et finner du kildekoden til spillet. Her har vi valgt å kun ta med det vi har produsert og kodet selv.
-Du finn***
+Dette består av alle Scriptsene vi har produsert for de ulike elementene til spillet.
 
 ## Produsert av
 Vegard Hjerpaasen, Magnus L. Fjeldberg, Alexander R. Ovesen,  Even Røst.
