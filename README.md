@@ -1,8 +1,10 @@
-# Bachelor oppgave 2023 Bø - MidtTelemark
-## Oppgave
-Lage et spill. Sjanger 4x/horde shooter
-## Battle of Kauto
-Battle of kauto. bla bla
+# Bachelor oppgave 2024 Bø - MidtTelemark
 
-## Laget av
-Even Røst, Alexander R. Ovesen, Vegard Hjerpaasen, Magnus L. Fjeldberg
+## Oppgave
+Utvikle et spill som tar for seg en hybrid av sjangrene "4x" og "Roguelike hordeshooter".
+Kjente spill i disse sjangrene er Civilisations serien (4x, utviklet av Firaxis) og Vampire survivors ("Roguelike hordeshooter", utviklet av Poncle)
+
+
+
+## Produsert av
+Vegard Hjerpaasen, Magnus L. Fjeldberg, Alexander R. Ovesen,  Even Røst.
