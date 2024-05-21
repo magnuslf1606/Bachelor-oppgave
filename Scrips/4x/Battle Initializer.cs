@@ -130,11 +130,14 @@ public class BattleInitializer : MonoBehaviour
             //For attacking
             for(int j = 0; j < attackingHero.army.Length; j++) {
                 string[] temp = attackingHero.army[j].Split(";");
-                if(temp[0].ToLower() == start[i]) 
+                if(temp[0].ToLower() == start[i]) {
                     start[i+1] = int.Parse(start[i+1]) + int.Parse(temp[1]) + ""; 
+                    print("Ally: " + start[i+1]);
+                }
+                    
                 
             } 
-            int minLimit = 10;
+            int minLimit = 5;
             if(!defendingHero && !defendingEnemyTown) {
                 //For defender, (AutoResolve only)
                 for(int j = 0; j < ArmyToArray(ArmyToFight).Length; j++) {
@@ -147,8 +150,11 @@ public class BattleInitializer : MonoBehaviour
                 //For defender, (Faktisk hær)
                 for(int j = 0; j < defendingHero.army.Length; j++) {
                     string[] temp = defendingHero.army[j].Split(";");
-                    if(temp[0].ToLower() == start[i]) 
+                    if(temp[0].ToLower() == start[i]) {
                         start[i+2] = int.Parse(start[i+2]) + int.Parse(temp[1]) + ""; 
+                        print("Enemy: " + start[i+2]);
+                    }
+                        
                 
                 } 
             }
