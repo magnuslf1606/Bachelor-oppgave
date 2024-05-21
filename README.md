@@ -14,7 +14,7 @@ rent faglig hvordan man skal bygge og sette sammen de forskjellige komponentene 
 utbytte av å jobbe med oppgaven vi har valgt. Både rent faglig, men også sosialt, sammen har vi utviklet et spill vi er fornøyde med, og vi sitter igjen med en 
 erfaring som kan komme godt med videre i livet. 
 
-##Laste ned
+## Laste ned
 SPillet kan lastes ned fra denne Mediafire linken: https://www.mediafire.com/file/72k35syfjmn4u0s/Spillfil_for_BoK.zip/file
 
 ## Produsert av
