@@ -11,5 +11,9 @@ rent faglig hvordan man skal bygge og sette sammen de forskjellige komponentene 
 utbytte av å jobbe med oppgaven vi har valgt. Både rent faglig, men også sosialt, sammen har vi utviklet et spill vi er fornøyde med, og vi sitter igjen med en 
 erfaring som kan komme godt med videre i livet. 
 
+## GitHub
+I dette GitHub Repo'et finner du kildekoden til spillet. Her har vi valgt å kun ta med det vi har produsert og kodet selv.
+Du finn***
+
 ## Produsert av
 Vegard Hjerpaasen, Magnus L. Fjeldberg, Alexander R. Ovesen,  Even Røst.
