@@ -5,7 +5,7 @@ public class Health : MonoBehaviour
 
     public float maxHealth = 3;
     public float currentHealth;
-    // Start is called before the first frame update
+    // Start is called before the first frame updates
 
     public Animator a;
 
